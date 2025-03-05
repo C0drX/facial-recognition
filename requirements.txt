@@ -1,0 +1,7 @@
+dlib
+storage
+face_recognition
+pathlib
+shutil
+colorama
+opencv-python

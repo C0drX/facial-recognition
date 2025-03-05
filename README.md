@@ -1,12 +1,28 @@
-📌 Image Process using Facial Recognition
-🔍 Find and Sort Images Based on a Specific Person
+📸 Image Process using Facial Recognition
 
+
+
+
+🔍 Find and Sort Images Based on a Specific Person Using Facial Recognition
+
+📌 Table of Contents
+🚀 About This Project
+✨ Features
+🛠 Installation
+▶️ Usage
+📸 Example Output
+⚙ Customization & Future Updates
+🔗 License & Open Source
 🚀 About This Project
 Have a huge collection of images (1000 - 7000+ images) of your family, friends, or team members and need to find every image containing a specific person?
 
-This Python-based facial recognition tool helps you do exactly that! 🧑‍💻 Just provide a sample image of the person and the dataset folder—this program will scan all images, compare faces, and list/move/copy/delete the matched ones!
+This Python-based facial recognition tool helps you do exactly that! 🧑‍💻
 
-✨ Key Features
+🔹 Just provide a sample image of the person
+🔹 Specify the dataset folder
+🔹 The program will scan all images, compare faces, and let you list/move/copy/delete the matched ones!
+
+✨ Features
 ✅ Find a specific person even in group photos
 ✅ Adjustable tolerance for better accuracy based on image quality
 ✅ Copy/Move/Delete matched images
@@ -44,8 +60,9 @@ Delete Images
 (Will include sample output images here)
 
 ⚙ Customization & Future Updates
-The program automatically adjusts tolerance based on image quality 🔧
-As an open-source project, users can tweak it further for custom needs
-Future updates will bring improved models & accuracy
+🔧 The program automatically adjusts tolerance based on image quality
+🔧 As an open-source project, users can tweak it further for custom needs
+🔧 Future updates will bring improved models & accuracy
+
 🔗 License & Open Source
-🚀 This is an open-source project, freely available for anyone to use and improve! No license required.
+🚀 This is an open-source project, freely available for anyone to use and improve! No license required

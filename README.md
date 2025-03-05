@@ -75,7 +75,7 @@ pip install face_recognition opencv-python dlib alive_progress shutil colorama
 ---
 
 ### 📸 ***Example Output***
-_(Will include sample output images here)_
+![Example](example.png)
 
 ---
 
